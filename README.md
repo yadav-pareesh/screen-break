@@ -167,7 +167,7 @@ Production bundle analysis (via Rolldown / Vite):
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/screen-break.git
+   git clone https://github.com/yadav-pareesh/screen-break.git
    cd screen-break
    ```
 
