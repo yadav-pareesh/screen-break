@@ -167,7 +167,7 @@ Production bundle analysis (via Rolldown / Vite):
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yadav-pareesh/screen-break.git
+   git clone https://github.com/your-username/screen-break.git
    cd screen-break
    ```
 
@@ -207,13 +207,9 @@ Production bundle analysis (via Rolldown / Vite):
 
 ## 👨‍💻 Author
 
-### **Pareesh Yadav**
-*Software Engineer / Frontend Developer*
-
-- 🌐 **Portfolio**: [pareeshyadav.xyz](https://pareeshyadav.xyz)
-- 💼 **LinkedIn**: [linkedin.com/in/pareeshyadav](https://linkedin.com/in/pareeshyadav)
-- 🐙 **GitHub**: [@yadav-pareesh](https://github.com/yadav-pareesh)
-
----
+**Software Engineer / Frontend Developer**  
+- Portfolio: [https://pareeshyadav.xyz]  
+- LinkedIn: [https://linkedin.com/in/pareeshyadav]  
+- GitHub: [@yadav-pareesh](https://github.com/yadav-pareesh)  
 
 *Crafted with precision, empathy for developer ergonomics, and clean code principles.*
